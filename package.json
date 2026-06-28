@@ -1,0 +1,21 @@
+{
+  "name": "canela-cafe",
+  "version": "1.0.0",
+  "description": "Landing page for Canela & Café - a cozy coffee shop",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured yet'"
+  },
+  "keywords": [
+    "cafe",
+    "coffee",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
