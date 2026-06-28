@@ -1,0 +1,19 @@
+{
+  "name": "canela-cafe",
+  "version": "1.0.0",
+  "description": "Landing page for Canela & Café - A cozy café with artisanal products",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "landing-page",
+    "cafe",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
